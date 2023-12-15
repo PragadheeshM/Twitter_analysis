@@ -4,7 +4,9 @@
 # In[1]:
 
 
-print("Hello")
+for i in range(2):
+  x=intput("Enter the text:")
+  
 
 
 # In[ ]:
